@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    .maindiv {
+        display: flex;
+    }
+
+    .c1 {
+        border: 1px solid black;
+        width: 120px;
+        height: 150px;
+
+        background-color: orangered;
+    }
+
+    .c2 {
+        border: 1px solid black;
+        width: 120px;
+        height: 150px;
+        background-color: rgb(249, 246, 243);
+
+
+    }
+
+    .chaild1 {
+        border: 1px solid blue;
+        width: 50px;
+        height: 50px;
+        margin: 20px;
+        ;
+        background-color: blue;
+    }
+
+    .c3 {
+        border: 1px solid black;
+        width: 120px;
+        height: 150px;
+
+        background-color: green;
+
+    }
+</style>
+
+<body>
+    <div class="maindiv">
+        <marquee behavior="slide" direction="up" width="20%">
+            <div class="c1"> card 1</div>
+        </marquee>
+        <marquee behavior="slide" direction="down" width="20%">
+            <div class="c2">
+                Card 2
+
+                <div class="chaild1"> small1 </div>
+
+            </div>
+        </marquee>
+        <marquee behavior="slide" direction="up" width="20%">
+            <div class="c3"> card 3</div>
+        </marquee>
+
+    </div>
+</body>
+
+</html>

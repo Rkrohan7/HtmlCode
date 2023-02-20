@@ -1,0 +1,252 @@
+.investBody{
+    background: #fff;
+}
+
+
+.ip{
+    color:#fff;
+    margin-top: 20px;
+    margin-left: 350px;
+}
+.chaildInvest{
+    border: 1px solid  #6cc86c;
+    background-color:  #6cc86c;
+    height: 300px;
+    width: 100%;
+    margin-top: 120px;
+    filter: brightness(0.8);
+
+        position: absolute;
+        z-index: -1;
+}
+.investh1{
+   margin-top: 80px;
+   margin-left: 40%;
+    color: #ffffff;
+}
+.chaildInvest2{
+  
+    height: 300px;
+    width: 100%;
+    margin-top: 120px;
+    filter: brightness(10);
+
+        position: absolute;
+        z-index: -1;
+}
+.investh2{
+   margin-top: 80px;
+   margin-left: 35%;
+    color:black
+}
+.investh2{
+    margin-top: 80px;
+    margin-left: 35%;
+     color:black
+ }
+ .investth2{
+   
+    margin-left: 45%;
+     color:black
+ }
+
+ 
+ .cardsconainer1 {
+    display: flex;
+    margin-left: 55px;
+    
+}
+
+.card_chart1 {
+    background-color: #fff;
+    background-clip: border-box;
+   
+    border-radius: 0.25rem;
+    height: 350px;
+    width: 450px;
+    margin-top: 800px;
+    margin-left: 30px;
+    box-shadow: 30px 30px 45px rgba(132, 132, 132, 0.125);
+}
+
+
+
+.card_chart1:hover {
+    border: 3px solid #1c681c;
+    color: #fff;
+    background-color:#1c681c;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 10px 10px 40px #87b587;
+}
+.cardsconainer2 {
+    display: flex;
+    margin-left: 55px;
+    
+}
+
+.card_chart2 {
+    background-color: #fff;
+    background-clip: border-box;
+  
+    border-radius: 0.25rem;
+    height: 350px;
+    width: 450px;
+    margin-top: 60px;
+    margin-left: 260px;
+    box-shadow: 30px 30px 45px rgba(132, 132, 132, 0.125);
+    
+}
+.card_chart3 {
+    background-color: #fff;
+    background-clip: border-box;
+   
+    border-radius: 0.25rem;
+    height: 350px;
+    width: 450px;
+    margin-top: 60px;
+    margin-left:30px;
+    box-shadow: 30px 30px 45px rgba(132, 132, 132, 0.125);
+    
+}
+.card_chart2:hover {
+    border: 3px solid #1c681c;
+    color: #fff;
+    background-color:#1c681c;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 10px 10px 40px #87b587;
+
+}
+
+.card_chart3:hover {
+    border: 3px solid #1c681c;
+    color: #fff;
+    background-color:#1c681c;
+    border-radius: 5px;
+    cursor: pointer;
+    box-shadow: 10px 10px 40px #87b587;
+}
+
+
+.chart_heading_invest {
+    margin-top: 10px;
+    margin-left: 140px;
+}
+
+.chart_heading1_invest {
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+.chart_heading2_invest {
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.chart_heading3_invest {
+    margin-top: 10px;
+    margin-left: 130px;
+}
+
+.chart_heading4_invest {
+    margin-top: 10px;
+    margin-left: 150px;
+}
+
+
+
+.Chart_para_invest {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.Stepdiv{
+    margin-top: 100px;
+    margin-left: 25%;
+}
+.step_card_chart1{
+    background-color: #fff;
+    background-clip: border-box;
+   
+    border-radius: 0.25rem;
+    height: 400px;
+    width: 550px;
+    margin-top: 160px;
+    margin-left:200px;
+    box-shadow:20px 20px 20px  rgba(104, 104, 104, 0.125); 
+}
+.step_chart_img{
+    margin-left: 22%;
+}
+.steph6{
+    margin-top: 30px;
+    margin-left: 70px;
+}
+.step_chart_arraw{
+    margin-left: 791px;
+    margin-top: -460px;
+}
+.circle{
+    height: 200px;
+    width: 200px;
+    border: 1px solid #6cc86c ;
+    border-radius: 50%;
+    background-color: #549954;
+    margin-left: 600px;
+    margin-top: -700px;
+    text-align: center;
+}
+.circlepara{
+ 
+    margin-top: 30%;
+    font-size: 70px;
+    color: #fff;
+}
+.step_card_chart2{
+    background-color: #fff;
+    background-clip: border-box;
+   
+    border-radius: 0.25rem;
+    height: 400px;
+    width: 550px;
+    margin-top: 370px;
+    margin-left:50%;
+    box-shadow:20px 20px 20px  rgba(104, 104, 104, 0.125); 
+}
+.step_card_chart3{
+    background-color: #fff;
+    background-clip: border-box;
+   
+    border-radius: 0.25rem;
+    height: 400px;
+    width: 550px;
+    margin-top: 400px;
+    margin-left:200px;
+    box-shadow:20px 20px 20px  rgba(104, 104, 104, 0.125); 
+}
+.step_chart_img2{
+    margin-left: 26%;
+}
+.steph6_2{
+    margin-top: 20px;
+    margin-left: 150px;
+}
+.step_chart_arraw1{
+    margin-left: 330px;
+    margin-top: -400px;
+}
+.circle2{
+    height: 200px;
+    width: 200px;
+    border: 1px solid #6cc86c ;
+    border-radius: 50%;
+    background-color:#549954;
+    margin-left: 45%;
+    margin-top: -710px;
+    text-align: center;
+}
+.circlepara1{
+ 
+    margin-top: 30%;
+    font-size: 70px;
+    color: #fff;
+}
